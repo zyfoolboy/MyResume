@@ -16,10 +16,10 @@
 熟悉推送,第三方登录,分享等集成;<br/>
 了解主流SDK编译和使用。<br />
 ##项目经验
-###e路通
+###TK商城
 项目描述:电商APP,主要为了方便高铁乘客购买商品的一个商城类应用，用户可以通过商城购买列车上的产品。<br />
-项目地址:https://itunes.apple.com/cn/app/tian-jin-gao-tiee-lu-tong/id1039676509?l=en&mt=8<br/>
-职责描述:负责开发该APP登录,注册,修改密码,购物车,商品详情,商品分类,首页,搜索,以及优惠券等模块,后期维护,版本迭代。<br />
+项目地址:https://itunes.apple.com/cn/app/tk-shang-cheng/id1144378181?mt=8&ign-mpt=uo%3D4<br/>
+职责描述:负责该APP整体模块开发包括登录,注册,修改密码,购物车,商品详情,商品分类,首页,搜索,以及优惠券等,以及负责后期维护,版本迭代。<br />
 ###团队激励宝
 项目描述:团队移动管理平台,可全方位调动干部员工积极性。<br/>
 项目地址:https://itunes.apple.com/cn/app/tuan-dui-ji-li-bao/id1105235337?mt=8<br/>
