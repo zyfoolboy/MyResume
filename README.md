@@ -2,7 +2,7 @@
 ####郑勇   15664086596   zyfoolboy@gmail.com   河南师范大学   网络工程
 ##专业技能
 熟悉 Objective-C,了解 Swift 语言;<br />
-具有良好的编码习惯,代码的可复用性高,对面向对象的编程思想有一定理解;<br />
+具有良好的编码习惯,具备良好的分析及解决问题的能力;<br />
 学习能力强,具有扎实的程序设计基础;<br />
 熟练掌握 CocoaTouch 基础框架, Foundation , UIKit 等;<br />
 熟练使用 StoryBoard,xib,code 方式进行开发;<br />
