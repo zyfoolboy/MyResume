@@ -26,6 +26,8 @@
 5.使用通知实现推送时跳转到指定界面<br/>
 6.集成微信支付，支付宝支付功能<br/>
 7.对 AFNetworking 进行封装用来实现网络请求<br/>
+8.实现电影团购选座界面 UIWebView 与 Native 界面的跳转和交互<br/>
+
 ###兴团网商家
 项目描述:兴团网商家版<br/>
 项目地址:https://itunes.apple.com/cn/app/xing-tuan-shang-jia/id1081258836?mt=8<br/>
