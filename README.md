@@ -25,7 +25,7 @@
 4.封装自定义提示框实现代码复用<br/>
 5.使用通知实现推送时跳转到指定界面<br/>
 6.集成微信支付，支付宝支付功能<br/>
-
+7.对 AFNetworking 进行封装用来实现网络请求<br/>
 ###兴团网商家
 项目描述:兴团网商家版<br/>
 项目地址:https://itunes.apple.com/cn/app/xing-tuan-shang-jia/id1081258836?mt=8<br/>
