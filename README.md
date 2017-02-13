@@ -39,12 +39,13 @@
 职责描述:负责集成该项目的分享以及推送通知等功能。<br/>
 
 ###TK商城
-项目描述:电商 APP,主要为了方便高铁乘客购买商品的一个商城类应用，用户可以通过该商城购买列车上的产品。<br />
+项目描述:电商 APP，主要为了方便高铁乘客购买商品的一个商城类应用，用户可以通过该商城购买列车上的产品。<br />
 项目地址:https://itunes.apple.com/cn/app/tk-shang-cheng/id1144378181?mt=8&ign-mpt=uo%3D4<br/>
-职责描述:负责该APP整体模块重构,并负责跟其他开发人员讲解 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 框架的使用。<br />
-主要技术:1.该项目为 [ECSHOP](http://www.ecshop.com/) 开源软件二次开发项目,使用 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 开源框架开发 UI 界面。<br/>
-
-
+职责描述:负责该APP整体模块重构，并负责跟其他开发人员讲解 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 框架的使用。<br />
+主要技术:<br/>
+1.该项目为 [ECSHOP](http://www.ecshop.com/) 开源软件二次开发项目，使用 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 开源框架开发 UI 界面。<br/>
+2.使用 MJRefresh ，UITableView， UIWebView 实现商品详情界面下拉加载商品详情<br/>
+3.封装 UIView 实现星星评价控件，并通过绘图将该控件显示到 BeeFramework 页面<br/>
 
 ##专业技能
 熟悉 Objective-C,了解 Swift 语言;<br />
