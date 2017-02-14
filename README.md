@@ -3,7 +3,7 @@
 * 邮箱:zyfoolboy@gmail.com
 * 博客:https://zyfoolboy.github.io/
 * GitHub:https://github.com/zyfoolboy
-* 2016 年毕业于河南师范大学，计算机科学与技术专业
+
 ##专业技能
 * 熟练 iOS 开发，开发上线过多款 APP
 * 丰富的电商项目经验，熟悉支付功能的集成（支付宝，微信，Apple Pay，Stripe等）
@@ -85,6 +85,9 @@
 * 该项目为 [ECSHOP](http://www.ecshop.com/) 开源软件二次开发项目，使用 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 开源框架开发 UI 界面。
 * 使用 MJRefresh ，UITableView， UIWebView 实现商品详情界面下拉加载商品详情
 * 封装 UIView 实现星星评价控件，并通过绘图将该控件显示到 BeeFramework 页面
+
+##教育背景
+2012 - 2016 河南师范大学 网络工程 本科
 
 ##兴趣爱好
 爱运动,校级迎新篮球赛冠军队队员,大一暑假完成了川藏骑行之旅,喜欢有挑战性的工作;热爱移动开发,移动互联网事业,渴望进步,了解并关心用户体验。
