@@ -26,47 +26,59 @@
 
 
 ###金星支付
-项目描述:<br/>
-职责描述:负责商户模块功能开发。<br/>
-主要技术:<br/>
-1.部分模块采用 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 框架实践 MVVM 架构模式降低模块耦合性<br/>
-2.对 UIScrollView ，UITableView进行封装，实现类似 Excel 表格控件<br/>
-3.封装 UIDatePicker 实现日期选择控件<br/>
-4.使用 AFNetworking 实现图片上传到服务器功能<br/>
-5.使用 CocoaPods 管理第三方库<br/>
+项目描述:
+
+职责描述:负责商户模块功能开发。
+
+主要技术:
+* 部分模块采用 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 框架实践 MVVM 架构模式降低模块耦合性
+* 对 UIScrollView ，UITableView进行封装，实现类似 Excel 表格控件
+* 封装 UIDatePicker 实现日期选择控件
+* 使用 AFNetworking 实现图片上传到服务器功能
+* 使用 CocoaPods 管理第三方库
 
 ###兴团网
-项目描述:集成团购、外卖、点餐于一身的 APP ，经营范围广泛，类别更全面，它不仅能给您带来很多优惠和许多实惠，我们的宗旨就是：利他 共赢 分享！简单来说，就是让您消费、红包两不误，这就是我们的兴团事业——兴团网，引领消费商新时代，您的消费您做主！<br/>
-项目地址:https://itunes.apple.com/cn/app/xing-tuan-wang/id1080143461?mt=8<br/>
-职责描述:主要负责该项目推送、分享、第三方登录的集成，以及点餐，购物车功能的实现，并负责版本更新，上架等<br/>
-主要技术:<br/>
-1.使用 ShareSDK 实现分享，第三方登录的集成<br/>
-2.使用 JPush 实现推送通知<br/>
-3.使用 UITableView，自定义 UITableViewCell 实现点餐以及购物车界面的搭建<br/>
-4.封装自定义提示框实现代码复用<br/>
-5.使用通知实现推送时跳转到指定界面<br/>
-6.集成微信支付，支付宝支付功能<br/>
-7.对 AFNetworking 进行封装用来实现网络请求<br/>
-8.实现电影团购选座界面 UIWebView 与 Native 界面的跳转和交互<br/>
+项目描述:集成团购、外卖、点餐于一身的 APP ，经营范围广泛，类别更全面，它不仅能给您带来很多优惠和许多实惠，我们的宗旨就是：利他 共赢 分享！简单来说，就是让您消费、红包两不误，这就是我们的兴团事业——兴团网，引领消费商新时代，您的消费您做主！
+
+项目地址:https://itunes.apple.com/cn/app/xing-tuan-wang/id1080143461?mt=8
+
+职责描述:主要负责该项目推送、分享、第三方登录的集成，以及点餐，购物车功能的实现，并负责版本更新，上架等
+
+主要技术:
+* 使用 ShareSDK 实现分享，第三方登录的集成
+* 使用 JPush 实现推送通知
+* 使用 UITableView，自定义 UITableViewCell 实现点餐以及购物车界面的搭建
+* 封装自定义提示框实现代码复用
+* 使用通知实现推送时跳转到指定界面
+* 集成微信支付，支付宝支付功能
+* 对 AFNetworking 进行封装用来实现网络请求
+* 实现电影团购选座界面 UIWebView 与 Native 界面的跳转和交互
 
 ###兴团网商家
-项目描述:兴团网商家版<br/>
-项目地址:https://itunes.apple.com/cn/app/xing-tuan-shang-jia/id1081258836?mt=8<br/>
-职责描述:增加了自主上单,推送功能,负责版本更新上架<br/>
+项目描述:兴团网商家版
+
+项目地址:https://itunes.apple.com/cn/app/xing-tuan-shang-jia/id1081258836?mt=8
+
+职责描述:增加了自主上单,推送功能,负责版本更新上架
 
 ###团队激励宝
-项目描述:团队移动管理平台,可全方位调动干部员工积极性。<br/>
-项目地址:https://itunes.apple.com/cn/app/tuan-dui-ji-li-bao/id1105235337?mt=8<br/>
-职责描述:负责集成该项目的分享以及推送通知等功能。<br/>
+项目描述:团队移动管理平台,可全方位调动干部员工积极性。
+
+项目地址:https://itunes.apple.com/cn/app/tuan-dui-ji-li-bao/id1105235337?mt=8
+
+职责描述:负责集成该项目的分享以及推送通知等功能。
 
 ###TK商城
-项目描述:电商 APP，主要为了方便高铁乘客购买商品的一个商城类应用，用户可以通过该商城购买列车上的产品。<br />
-项目地址:https://itunes.apple.com/cn/app/tk-shang-cheng/id1144378181?mt=8&ign-mpt=uo%3D4<br/>
-职责描述:负责该APP整体模块重构，并负责跟其他开发人员讲解 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 框架的使用。<br />
-主要技术:<br/>
-1.该项目为 [ECSHOP](http://www.ecshop.com/) 开源软件二次开发项目，使用 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 开源框架开发 UI 界面。<br/>
-2.使用 MJRefresh ，UITableView， UIWebView 实现商品详情界面下拉加载商品详情<br/>
-3.封装 UIView 实现星星评价控件，并通过绘图将该控件显示到 BeeFramework 页面<br/>
+项目描述:电商 APP，主要为了方便高铁乘客购买商品的一个商城类应用，用户可以通过该商城购买列车上的产品。
+
+项目地址:https://itunes.apple.com/cn/app/tk-shang-cheng/id1144378181?mt=8&ign-mpt=uo%3D4
+
+职责描述:负责该APP整体模块重构，并负责跟其他开发人员讲解 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 框架的使用。
+
+主要技术:
+* 该项目为 [ECSHOP](http://www.ecshop.com/) 开源软件二次开发项目，使用 [BeeFramework](https://github.com/gavinkwoe/BeeFramework) 开源框架开发 UI 界面。
+* 使用 MJRefresh ，UITableView， UIWebView 实现商品详情界面下拉加载商品详情
+* 封装 UIView 实现星星评价控件，并通过绘图将该控件显示到 BeeFramework 页面
 
 ##专业技能
 熟悉 Objective-C,了解 Swift 语言;<br />
