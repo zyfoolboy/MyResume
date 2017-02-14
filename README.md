@@ -77,19 +77,11 @@
 * 封装 UIView 实现星星评价控件，并通过绘图将该控件显示到 BeeFramework 页面
 
 ##专业技能
-熟悉 Objective-C,了解 Swift 语言;<br />
-具有良好的编码习惯,具备良好的分析及解决问题的能力;<br />
-学习能力强,具有扎实的程序设计基础;<br />
-熟练掌握 CocoaTouch 基础框架, Foundation, UIKit 等;<br />
-熟练使用 StoryBoard, xib, code 方式进行开发;<br />
-熟练使用 MVC 设计模式,单例模式,广播,代理和协议,Block 使用;<br />
-熟悉 Socket, TCP/IP, UDP, HTTP 协议;<br />
-熟悉 SQLite, CoreData, UserDefault 等数据存储技术;<br />
-熟悉 XML, JSON 数据解析和 GET/POST 请求;<br />
-熟悉 GCD, NSOperation 多线程,异步编程技术;<br />
-熟练使用多屏适配技术,可以完成多屏适配任;<br />
-熟悉 SVN, Git 版本控制的使用;<br />
-熟悉推送,第三方登录,分享等集成;<br/>
-了解主流 SDK 编译和使用。<br />
+* 熟练 iOS 开发，开发上线过多款 APP
+* 丰富的电商项目经验，熟悉支付功能的集成（支付宝，微信，Apple Pay，Stripe等）
+* 熟悉 MQTT 协议的使用，有智能硬件相关开发经验
+* 熟练使用 Git，SVN版本控制工具
+* 熟悉推送，第三方登录，分享等集成
+
 ##兴趣爱好
 爱运动,校级迎新篮球赛冠军队队员,大一暑假完成了川藏骑行之旅,喜欢有挑战性的工作;热爱移动开发,移动互联网事业,渴望进步,了解并关心用户体验。
