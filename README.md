@@ -19,11 +19,8 @@
 
 主要技术:
 * 使用 MQTT 协议实现智能硬件与 APP 的通信
-* 
-
-
-
-
+* 封装自定义控件实现代码复用
+* 自定义 UICollectionViewLayout 实现控制灯具界面
 
 ###金星支付
 项目描述:
@@ -33,6 +30,7 @@
 主要技术:
 * 部分模块采用 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 框架实践 MVVM 架构模式降低模块耦合性
 * 对 UIScrollView ，UITableView进行封装，实现类似 Excel 表格控件
+* 使用 ShareSDK 集成分享，第三方登录功能
 * 封装 UIDatePicker 实现日期选择控件
 * 使用 AFNetworking 实现图片上传到服务器功能
 * 使用 CocoaPods 管理第三方库
@@ -45,10 +43,8 @@
 职责描述:主要负责该项目推送、分享、第三方登录的集成，以及点餐，购物车功能的实现，并负责版本更新，上架等
 
 主要技术:
-* 使用 ShareSDK 实现分享，第三方登录的集成
 * 使用 JPush 实现推送通知
 * 使用 UITableView，自定义 UITableViewCell 实现点餐以及购物车界面的搭建
-* 封装自定义提示框实现代码复用
 * 使用通知实现推送时跳转到指定界面
 * 集成微信支付，支付宝支付功能
 * 对 AFNetworking 进行封装用来实现网络请求
