@@ -1,8 +1,9 @@
 ##郑 勇
-* 手机:15664086596   
-* 邮箱:zyfoolboy@gmail.com
-* 博客:https://zyfoolboy.github.io/
-* GitHub:https://github.com/zyfoolboy
+* 手机: 15664086596   
+* 邮箱: zyfoolboy@gmail.com
+* 求职意向: iOS 开发工程师
+* 博客: https://zyfoolboy.github.io/
+* GitHub: https://github.com/zyfoolboy
 
 ##专业技能
 * 熟练 iOS 开发，开发上线过多款 APP
