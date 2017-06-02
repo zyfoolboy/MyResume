@@ -43,16 +43,6 @@
 * 封装自定义控件实现代码复用
 * 自定义 UICollectionViewLayout 实现控制灯具界面
 
-### 金星支付
-
-职责描述:负责商户模块功能开发。
-
-主要技术:
-* 部分模块采用 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 框架实践 MVVM 架构模式降低模块耦合性
-* 对 UIScrollView ，UITableView进行封装，实现类似 Excel 表格控件
-* 使用 ShareSDK 集成分享，第三方登录功能
-* 使用 AFNetworking 实现图片上传到服务器功能
-
 ### 为众消防培训在线学习平台
 项目描述：
 
@@ -62,6 +52,16 @@
 * 语音自动播报理论知识点；
 * 使用 Realm 数据库记录用户模拟考试，练习信息；
 * 使用 UICollectionView 实现考试界面；
+
+### 金星支付
+
+职责描述:负责商户模块功能开发。
+
+主要技术:
+* 部分模块采用 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) 框架实践 MVVM 架构模式降低模块耦合性
+* 对 UIScrollView ，UITableView进行封装，实现类似 Excel 表格控件
+* 使用 ShareSDK 集成分享，第三方登录功能
+* 使用 AFNetworking 实现图片上传到服务器功能
 
 ### 兴团网&&兴团网商家
 项目描述:集成团购、外卖、点餐于一身的 APP ，经营范围广泛，类别更全面，它不仅能给您带来很多优惠和许多实惠，我们的宗旨就是：利他 共赢 分享！简单来说，就是让您消费、红包两不误，这就是我们的兴团事业——兴团网，引领消费商新时代，您的消费您做主！
